@@ -1,0 +1,6 @@
+Tamanho: 57 bytes
+Nome: Fernanda | CPF: 555.555.555-55 | Salário: 2100.00
+Tamanho: 54 bytes
+Nome: Lucas | CPF: 666.666.666-66 | Salário: 2150.00
+Tamanho: 56 bytes
+Nome: Juliana | CPF: 777.777.777-77 | Salário: 2200.00
